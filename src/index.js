@@ -23,4 +23,4 @@ function next(str){
     var ch = next(temp)
     if(ch) return ch
   }    
-}g
+}
